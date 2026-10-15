@@ -4,6 +4,9 @@ A slot machine in a classic Macintosh window. Pull the handle, chase the diamond
 
 ![MacBandit screenshot](<MacBandit - screenshot.png>)
 
+![Jackpot! Three diamonds](screenshots/gameplay.png)
+*Jackpot! Three diamonds*
+
 ## What's in it
 
 - Enter your name, set your bet and pull the handle
